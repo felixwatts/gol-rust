@@ -1,0 +1,9 @@
+[package]
+name = "gol"
+version = "0.1.0"
+authors = ["felixwatts <felixwatts@gmail.com>"]
+
+[dependencies]
+regex = "0.2"
+num = "0.1"
+termion = "1.5.1"
